@@ -1,0 +1,49 @@
+body{
+    background-color: #82CD47;
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    font-size: 35px;
+    font-family: 'Special Elite', cursive;
+}
+
+.madeBy{
+    font-size: 16px;
+    font-family: 'Special Elite', cursive;
+}
+
+.instructions{
+    font-size: 18px;
+    font-family: 'Special Elite', cursive;
+    font-weight: bold;
+}
+
+.maintitle{
+    padding: 1px;
+}
+
+#gameBoard{
+    border: 3px solid;
+}
+
+.game_container{
+    text-align: center;
+}
+
+#scoreText{
+    font-family: 'Special Elite', cursive;
+    font-size: 40px;
+    margin-top: 12px;
+}
+
+#resetButton{
+    font-family: 'Special Elite', cursive;
+    font-size: 18px;
+    width: 80px;
+    height: 40px;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 22px;
+}
